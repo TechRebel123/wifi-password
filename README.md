@@ -6,6 +6,8 @@ then follow this command
 
 cd wifi-password
 
+cd wifi-password
+
 chmod +x wifi-password.sh
 
 ./wifi-password.sh
