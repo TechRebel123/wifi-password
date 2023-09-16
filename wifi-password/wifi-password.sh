@@ -3,7 +3,7 @@
 echo "==================================================================================="
 figlet -f slant -c wifi-hacking | lolcat
 echo "===================================================================================="
-echo "Created by Dragon"
+echo "Created by Dragon AKA TechRebel"
 
 sleep 3
 
@@ -19,7 +19,7 @@ clear
 echo "==================================================================================="
 figlet -f slant -c wifi-hacking | lolcat
 echo "==================================================================================="
-echo "Created by Dragon"
+echo "Created by Dragon AKA TechcRebel"
 
 sleep 2
 
